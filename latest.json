@@ -1,0 +1,10 @@
+{
+  "version": "0.1.1",
+  "date": "2026-07-27",
+  "download": "https://mitowav.gumroad.com/l/eclipseharmony",
+  "changelog": [
+    "El panel inferior ya no se oculta solo al abrir la ventana",
+    "Arreglado un fallo que impedía abrir el plugin en algunos equipos",
+    "Buscador (Ctrl+K): ahora llega a todas las funciones"
+  ]
+}
