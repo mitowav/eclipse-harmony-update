@@ -1,10 +1,10 @@
 {
-  "version": "0.1.2",
+  "version": "0.1.1",
   "date": "2026-07-27",
   "download": "https://mit0wav.gumroad.com/l/eclipse-harmony",
   "changelog": [
-    "El panel inferior ya no se oculta solo al abrir la ventana",
-    "Arreglado un fallo que impedía abrir el plugin en algunos equipos",
-    "Buscador (Ctrl+K): ahora llega a todas las funciones"
+    "Nueva función: Importar y exportar temas",
+    "Buscador (Ctrl+K): ahora llega a todas las funciones",
+    "Algunos bugs arreglados (Overlap de la misma nota, función incompleta de análisis de acordes..)"
   ]
 }
