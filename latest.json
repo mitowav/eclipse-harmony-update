@@ -5,6 +5,7 @@
   "changelog": [
     "Nueva función: Importar y exportar temas",
     "Buscador (Ctrl+K): ahora llega a todas las funciones",
-    "Algunos bugs arreglados (Overlap de la misma nota, función incompleta de análisis de acordes..)"
+    "Algunos bugs arreglados (Overlap de la misma nota, función incompleta de análisis de acordes..)",
+    "Responsive Layout implementado"
   ]
 }
