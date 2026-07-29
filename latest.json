@@ -1,11 +1,12 @@
 {
-  "version": "0.1.1",
+  "version": "0.2.0",
   "date": "2026-07-27",
   "download": "https://mit0wav.gumroad.com/l/eclipse-harmony",
   "changelog": [
-    "Nueva función: Importar y exportar temas",
-    "Buscador (Ctrl+K): ahora llega a todas las funciones",
-    "Algunos bugs arreglados (Overlap de la misma nota, función incompleta de análisis de acordes..)",
-    "Responsive Layout implementado"
+    "REDISEÑO VISUAL COMPLETO",
+    "HARMONY EXPLORER, nueva biblioteca de acordes",
+    "Menú principal reorganizado y flujo de navegación mejorado",
+    "Responsive Layout mejorado",
+    "+ Bug fixes: Persistencia de tempo/compás al cerrar y abrir el programa"
   ]
 }
