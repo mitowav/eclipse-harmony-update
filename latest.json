@@ -1,12 +1,9 @@
 {
-  "version": "0.2.0",
-  "date": "2026-07-27",
+  "version": "0.2.1",
+  "date": "2026-07-30",
   "download": "https://mit0wav.gumroad.com/l/eclipse-harmony",
   "changelog": [
-    "REDISEÑO VISUAL COMPLETO",
-    "HARMONY EXPLORER, nueva biblioteca de acordes",
-    "Menú principal reorganizado y flujo de navegación mejorado",
-    "Responsive Layout mejorado",
-    "+ Bug fixes: Persistencia de tempo/compás al cerrar y abrir el programa"
+    "Retrospective Capture now working!!",
+    "Bug fixes and optimized menú"
   ]
 }
