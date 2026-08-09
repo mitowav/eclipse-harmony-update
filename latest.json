@@ -1,9 +1,8 @@
 {
-  "version": "0.2.1",
+  "version": "0.2.2",
   "date": "2026-07-30",
   "download": "https://mit0wav.gumroad.com/l/eclipse-harmony",
   "changelog": [
-    "Retrospective Capture now working!!",
-    "Bug fixes and optimized menú"
+    "New optimizations"
   ]
 }
